@@ -1,6 +1,8 @@
+![](https://komarev.com/ghpvc/?username=antsyganok)
 ## Hi there 👋 i'm Anton
-
 I'm a Junior Python Developer from Lyubertsy
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antsyganok&theme=solarized_dark)
 
 <!--
 **antsyganok/antsyganok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
