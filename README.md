@@ -1,6 +1,9 @@
-![](https://komarev.com/ghpvc/?username=antsyganok)
 ## Hi there 👋 i'm Anton
 I'm a Junior Python Developer from Lyubertsy
+<!--![](https://komarev.com/ghpvc/?username=antsyganok) -->
+
+<img align="right" src="https://komarev.com/ghpvc/?username=antsyganok" />
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=antsyganok&theme=solarized_dark)
 
