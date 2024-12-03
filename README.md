@@ -1,10 +1,8 @@
 ## Hi there 👋 i'm Anton
-I'm a Junior Python Developer from Lyubertsy, Russia.
-<!--![](https://komarev.com/ghpvc/?username=antsyganok) -->
+I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Lyubertsy, Russia</b>.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact)](https://github.com/antsyganok/github-readme-stats) -->
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham" alt="antsyganok" />
 
