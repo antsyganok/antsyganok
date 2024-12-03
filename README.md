@@ -4,9 +4,9 @@ I'm a Junior Python Developer from Lyubertsy, Russia.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact)](https://github.com/antsyganok/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact)](https://github.com/antsyganok/github-readme-stats) -->
 ---
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham" alt="antsyganok" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham" alt="antsyganok" />
 
 <!--
 **antsyganok/antsyganok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
