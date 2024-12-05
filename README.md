@@ -3,6 +3,8 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
 
 <img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
 
+</br>
+
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham" alt="antsyganok" />
 
