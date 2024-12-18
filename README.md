@@ -16,7 +16,7 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
 </p>
 <img src="https://skillicons.dev/icons?i=gunicorn" width="40" height="40" />&nbsp;
 <img src="https://skillicons.dev/icons?i=json" width="40" height="40" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" />&nbsp;
 </div>
 
 ---
