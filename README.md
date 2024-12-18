@@ -1,5 +1,6 @@
 
-## Hi there 👋 i'm Anton
+## Hi there 👋,
+### i'm Anton 
 I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Lyubertsy, Russia</b>.
 
 <img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
@@ -7,7 +8,7 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
 </br>
 
 ---
-### My languages, frameworks and tools:
+### :hammer_and_wrench: My languages, frameworks and tools :
 <div>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -15,8 +16,8 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
     <img src="https://skillicons.dev/icons?i=py,django,html,bootstrap,postgres,sqlite,mysql,nginx,git,github,gitlab,githubactions,docker,vscode,pycharm,linux,apple,bash,postman" alt="Skills and tools"/>
   </a>
 </p>
-<img src="https://skillicons.dev/icons?i=gunicorn" width="40" height="40" />&nbsp;
-<img src="https://skillicons.dev/icons?i=json" width="40" height="40" />&nbsp;
+<!-- gunicorn json Redoc API DRF-->
+<!-- :man_technologist: -->
 </div>
 
 ---
