@@ -9,10 +9,10 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
 ---
 ### My languages and tools:
 <div>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=py,django,git,github,gitlab,githubactions,docker,vscode,pycharm,linux,apple,bash,postgres,sqlite,mysql,nginx,bootstrap,html,postman" alt="Skills and tools"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" />&nbsp;
   </a>
 </p>
 <img src="https://skillicons.dev/icons?i=gunicorn" width="40" height="40" />&nbsp;
