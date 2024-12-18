@@ -9,6 +9,8 @@ I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/
 ---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham" alt="antsyganok" />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=antsyganok)](https://git.io/streak-stats)
+
 ---
 
 <!--
