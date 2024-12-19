@@ -1,7 +1,7 @@
 
-## Hi there 👋,
+## Hi there 👋, <img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
 ### i'm Anton 
-I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Lyubertsy, Russia</b>.<img align="right" src="https://komarev.com/ghpvc/?username=antsyganok"/>
+I'm a Junior Python Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197408.png" width="13"/> <b>Lyubertsy, Russia</b>.
 
 </br>
 
