@@ -10,7 +10,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="50" height="50" />
     <!-- <a href="https://skillicons.dev"> -->
     <img src="https://skillicons.dev/icons?i=py,django,html,bootstrap,postgres,sqlite,mysql,nginx,git,github,gitlab,githubactions,docker,vscode,pycharm,linux,apple,bash,postman" alt="Skills and tools"/>
-  </a>
+    <!-- </a> -->
 </p>
 <!-- gunicorn json Redoc API DRF-->
 <!-- :man_technologist: -->
