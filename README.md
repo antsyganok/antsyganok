@@ -6,7 +6,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 ---
 ### :hammer_and_wrench: My languages, frameworks and tools :
 <div align="justify">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg&nbsp;" width="50" height="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg"&nbsp; width="50" height="50" />
     <img src="https://skillicons.dev/icons?i=py,django,html,bootstrap,postgres,sqlite,mysql,nginx,git,github,gitlab,githubactions,docker,vscode,pycharm,linux,apple,bash,postman" alt="Skills and tools"/>
 <!-- gunicorn json Redoc API DRF-->
 <!-- :man_technologist: -->
