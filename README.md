@@ -9,7 +9,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 <div align="left">
   <!-- Группировка по категориям -->
   <strong>Languages & Frameworks:</strong><br>
-  <img src="https://skillicons.dev/icons?i=py,django,regex" alt="Python, Django, Regex" />
+  <img src="https://skillicons.dev/icons?i=py,django" alt="Python, Django" />
 
   <strong>Databases:</strong><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
@@ -20,7 +20,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" alt="pytest" title="pytest" />
 
   <strong>Tools:</strong><br>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,bash,linux,vscode,pycharm" alt="Git, GitHub, GitLab, Postman, Bash, Linux, VSCode, PyCharm" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,bash,linux,vscode,pycharm,regex" alt="Git, GitHub, GitLab, Postman, Bash, Linux, VSCode, PyCharm, , Regex" />
   <img src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" width="40" height="40" alt="JSON" title="JSON" />
   <img src="https://cdn.icon-icons.com/icons2/2104/PNG/512/api_icon_129131.png" width="40" height="40" alt="API" title="API" />
 
