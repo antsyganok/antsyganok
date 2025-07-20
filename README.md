@@ -14,8 +14,8 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
 
   <strong>Infrastructure:</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions" alt="Docker, Nginx, GitHub Actions" />
-  <img src="https://github.com/whitmo/gunicorn/blob/master/icon.svg?ysclid=m5gwz5b08n980216143" width="40" height="40" alt="gunicorn" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions" alt="Инфраструктура" style="vertical-align:middle"/>
+  <img src="https://raw.githubusercontent.com/whitmo/gunicorn/master/icon.svg" width="40" height="40" alt="Gunicorn" style="vertical-align:middle"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" alt="pytest" title="pytest" />
 
   <strong>Tools:</strong><br>
