@@ -34,17 +34,20 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 ### 📊 Activity statistics
 
 <div align="center">
-  <!-- Компактное расположение статистики -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=dark&hide_border=true" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img height="165" src="https://streak-stats.demolab.com?user=antsyganok&theme=whatsapp-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
-  <!-- Cтатистика по языкам -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
-  </a>
+
+<!-- Основная статистика -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&text_color=58a6ff&icon_color=58a6ff&title_color=58a6ff" alt="Основная статистика" />
+</a>
+
+<!-- Языки -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=58a6ff&title_color=58a6ff" alt="Топ языков" />
+</a>
+
+<!-- Стрик -->
+<img src="https://streak-stats.demolab.com?user=antsyganok&theme=dark&hide_border=true&background=00000000&dates=58a6ff&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff" alt="GitHub Streak" />
+
 </div>
 
 ---
