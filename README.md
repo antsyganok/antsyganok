@@ -14,7 +14,8 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL, SQLite" />
 
   <strong>Infrastructure:</strong><br>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,gunicorn,githubactions" alt="Docker, Nginx, Gunicorn, GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions" alt="Docker, Nginx, GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" alt="pytest" title="pytest" />
 
   <strong>Tools:</strong><br>
@@ -35,12 +36,12 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 <div align="center">
   <!-- Компактное расположение статистики -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=antsyganok&show_icons=true&theme=dark&hide_border=true" />
   </a>
   <a href="https://git.io/streak-stats">
     <img height="165" src="https://streak-stats.demolab.com?user=antsyganok&theme=whatsapp-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
-  <!-- Добавлена статистика по языкам -->
+  <!-- Cтатистика по языкам -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antsyganok&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
   </a>
