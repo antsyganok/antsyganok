@@ -32,7 +32,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 </div>
 
 ---
-### 📊 Activity statistics
+### 📈 Activity statistics
 
 <div align="center">
 
