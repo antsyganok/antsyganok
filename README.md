@@ -15,7 +15,7 @@ I'm a Junior Python Developer from  <b>Lyubertsy, Russia</b> <img src="https://c
 
   <strong>Infrastructure:</strong><br>
   <img src="https://skillicons.dev/icons?i=docker,nginx,githubactions" alt="Docker, Nginx, GitHub Actions" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gunicorn/gunicorn-original.svg" width="40" height="40" alt="Gunicorn" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" width="40" height="40" alt="pytest" title="pytest" />
 
   <strong>Tools:</strong><br>
